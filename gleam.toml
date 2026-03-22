@@ -6,8 +6,8 @@ version = "1.0.0"
 #
 description = "Type-safe finite state machine library for Gleam"
 licences = ["BlueOak-1.0.0"]
-# repository = { type = "github", user = "", repo = "" }
-# links = [{ title = "Website", href = "" }]
+repository = { type = "github", user = "GG-O-BP", repo = "scamper" }
+links = [{ title = "Repository", href = "https://github.com/GG-O-BP/scamper" }]
 #
 # For a full reference of all the available options, you can have a look at
 # https://gleam.run/writing-gleam/gleam-toml/.
